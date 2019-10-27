@@ -1,7 +1,7 @@
 # ProjectEulerAssingments
 List of codes to solve mathematical problems created for the ProjectEuler website. 
 
-List of puzzles:
+## List of puzzles:
 
 3. 
 
